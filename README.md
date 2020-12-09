@@ -4,5 +4,5 @@
 ```sh
   $ nim -r c -d:release src/brainfuck.nim examples/mandelbrot.b
 ```
-!(https://raw.githubusercontent.com/gp-97/BrainfuckInterpreter/main/output.png)
+![Output](https://raw.githubusercontent.com/gp-97/BrainfuckInterpreter/main/output.png)
 
